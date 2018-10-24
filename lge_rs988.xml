@@ -6,7 +6,7 @@
 	
 	<project path="device/lge/h830" name="android_device_lge_h830" remote="cad" revision="cm-14.1" />
 
-        <project path="device/lge/h850" name="android_device_lge_h850" remote="cad" revision="cm-14.1" />
+       <project path="device/lge/h850" name="android_device_lge_h850" remote="cad" revision="cm-14.1" />
 
 	<project path="device/lge/rs988" name="android_device_lge_rs988" remote="cad" revision="cm-14.1" />
 
