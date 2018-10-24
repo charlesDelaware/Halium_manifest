@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<remote name="cad"
-		fetch="https://github.com/charlesDelaware"
-                revision="refs/heads/cm-14.1" />
+	<remote  name="cad"
+		 fetch="https://github.com/charlesDelaware"
+                 revision="refs/heads/cm-14.1" />
 	
 	<project path="device/lge/h830" name="android_device_lge_h830" remote="cad" revision="cm-14.1" />
 
