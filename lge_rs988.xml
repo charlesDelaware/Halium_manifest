@@ -2,7 +2,7 @@
 <manifest>
 	<remote  name="cad"
 		 fetch="https://github.com/charlesDelaware"
-                 revision="refs/heads/cm-14.1" />
+                revision="refs/heads/cm-14.1" />
 	
 	<project path="device/lge/h830" name="android_device_lge_h830" remote="cad" revision="cm-14.1" />
 
